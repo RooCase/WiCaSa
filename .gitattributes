@@ -1,1 +1,7 @@
+# Generated map outputs — exclude from GitHub language stats
+*.html linguist-generated=true
+
+# Data/output files — exclude from GitHub language stats
+*.json linguist-generated=true
+*.txt  linguist-generated=true
 
